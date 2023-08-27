@@ -1,0 +1,18 @@
+{
+  "name": "datasynchronismtool",
+  "version": "1.0.0",
+  "description": "数据同步工具for北京热力",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sheng.hou",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "dayjs": "^1.11.9",
+    "express": "^4.18.2",
+    "request": "^2.88.2",
+    "shelljs": "^0.8.5"
+  }
+}

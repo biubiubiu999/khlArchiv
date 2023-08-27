@@ -1,0 +1,1 @@
+./node --max-old-space-size=20000 index.js $1 2>&1 >logInfo_$1.log &

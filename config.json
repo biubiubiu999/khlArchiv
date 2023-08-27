@@ -1,0 +1,23 @@
+{
+    "startTime": "2023-07-03",
+    "endTime": "2023-07-05",
+    "dbInfo": {
+        "host": "172.30.60.105",
+        "port": 6061,
+        "user": "root",
+        "password": "kingview",
+        "auth": "c48947bc7dbd55e974fc6dc1bbb9ade6",
+        "database": "history"
+    },
+    "intervalData": false,
+    "intervalTable": [
+        5,
+        10,
+        20,
+        30,
+        60,
+        90,
+        120
+    ],
+    "createTableFlag":true
+}
